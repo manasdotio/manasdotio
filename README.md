@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Manas Singh
+
+Full Stack Developer (MERN / Next.js)
+
+I build backend systems, APIs, and full-stack web apps.
+
+## Tech Stack
+- JavaScript / TypeScript
+- Node.js
+- Express
+- Next.js
+- PostgreSQL
+- Prisma
+- Git
+
+## Featured Projects
+1. Job Portal API
+2. ChatGPT Clone
+3. Book Collection App
+4. Resume Parser API
+
+## Currently Learning
+- System Design
+- Scalable APIs
+- AI integrations
+
+## Links
+Portfolio: ...
+LinkedIn: ...
