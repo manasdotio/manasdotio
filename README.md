@@ -14,11 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--Typing Animation Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+Node.js+%7C+Prisma;Building+Backend+Systems" />
 
 Full Stack Developer (MERN / Next.js)
 
 I build backend systems, APIs, and full-stack web apps.
+
+
+  <!--Visitor Counter -->
+![Visitors](https://komarev.com/ghpvc/?username=manasdotio)
 
 ## Tech Stack
 - JavaScript / TypeScript
@@ -29,7 +34,8 @@ I build backend systems, APIs, and full-stack web apps.
 - Prisma
 - Git
 
-  
+  <!--tech stack badges -->
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
