@@ -54,7 +54,7 @@ Full Stack Developer focused on building backend systems, APIs, and scalable web
 <p align="center">
 
 <a href="https://github.com/manasdotio/job-portal-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=manasdotio&repo=job-portal-api&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=manasdotio&repo=hiresense-api&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/manasdotio/chatgpt-clone">
