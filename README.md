@@ -28,7 +28,7 @@ I build backend systems, APIs, and full-stack web apps.
 - PostgreSQL
 - Prisma
 - Git
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 ## Featured Projects
 1. Job Portal API
 2. ChatGPT Clone
