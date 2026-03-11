@@ -1,58 +1,73 @@
-## Hi there 👋
+<!-- Typing Animation Header -->
 
-<!--
-**manasdotio/manasdotio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Manas+Singh;Full+Stack+Developer;Next.js+%7C+Node.js+%7C+Prisma;Building+Backend+Systems" />
+</p>
 
-Here are some ideas to get you started:
+# Hi, I'm Manas Singh 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--Typing Animation Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+Node.js+%7C+Prisma;Building+Backend+Systems" />
+Full Stack Developer focused on **backend systems, APIs, and scalable web applications.**
 
-Full Stack Developer (MERN / Next.js)
+I mainly work with **Next.js, Node.js, Prisma, and PostgreSQL** and enjoy building tools that solve real problems.
 
-I build backend systems, APIs, and full-stack web apps.
-
-
-  <!--Visitor Counter -->
-![Visitors](https://komarev.com/ghpvc/?username=manasdotio)
+---
 
 ## Tech Stack
-- JavaScript / TypeScript
-- Node.js
-- Express
-- Next.js
-- PostgreSQL
-- Prisma
-- Git
 
-  <!--tech stack badges -->
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasdotio&layout=compact)
+## GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manasdotio&show_icons=true&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasdotio&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
 
 ## Featured Projects
-1. Job Portal API
-2. ChatGPT Clone
-3. Book Collection App
-4. Resume Parser API
+
+* **Job Portal API**
+  Backend system for managing jobs and candidates with authentication and role-based access.
+
+* **ChatGPT Clone**
+  Full-stack AI chat application built with modern web technologies.
+
+* **Book Collection App**
+  REST API for managing and organizing personal book collections.
+
+* **Resume Parser API**
+  AI-powered system that extracts skills and structured data from resumes.
+
+---
 
 ## Currently Learning
-- System Design
-- Scalable APIs
-- AI integrations
 
-## Links
-Portfolio: ...
-LinkedIn: ...
+* System Design
+* Scalable Backend Architectures
+* AI integrations in web apps
+
+---
+
+## Connect With Me
+
+Portfolio: **Coming Soon**
+LinkedIn: **Coming Soon**
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=manasdotio)
