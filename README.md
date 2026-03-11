@@ -61,14 +61,6 @@ Full Stack Developer focused on building backend systems, APIs, and scalable web
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasdotio&repo=chatgpt-clone&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/manasdotio/book-collection-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=manasdotio&repo=book-collection-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/manasdotio/resume-parser-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=manasdotio&repo=resume-parser-api&theme=tokyonight" />
-</a>
-
 </p>
 
 ---
