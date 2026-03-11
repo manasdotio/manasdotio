@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Manas Singh
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+Node.js+%7C+Prisma;Building+Backend+Systems" />
 
 Full Stack Developer (MERN / Next.js)
 
@@ -46,5 +46,3 @@ I build backend systems, APIs, and full-stack web apps.
 ## Links
 Portfolio: ...
 LinkedIn: ...
-
-https://github.com/Platane/snk
