@@ -86,7 +86,7 @@ Full Stack Developer focused on building backend systems, APIs, and scalable web
 
 # 🌐 Links
 
-Portfolio:  manasio@vercel.app
-LinkedIn: coming soon
+Portfolio:  manasio.vercel.app
+LinkedIn: (https://www.linkedin.com/in/manasdotio)
 
 ---
